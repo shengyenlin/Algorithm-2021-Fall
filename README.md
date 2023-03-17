@@ -1,8 +1,6 @@
 # Algorithm, 2021 Fall
 This is an undergraduate-level course that focuses on fundamental results in the study of algorithm, including the unifying principles and underlying concepts of algorithm design and analysis.. This repo contains my solutions to the homework as well as the midterm and final projects. 
 
-Additionally, althought I didn't attend the next course - Data structure - of this course, I self-learned the course content and finished all the homeworks. 
-
 Professor: [Iris Hui-Ru Chiang](https://www.ee.ntu.edu.tw/profile1.php?id=1060726), department of electrical engineering
 
 Final score: 78.8 / 100 (B+)
